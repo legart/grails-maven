@@ -62,7 +62,7 @@ public abstract class AbstractGrailsMojo extends AbstractMojo {
     private static final String GRAILS_PLUGIN_NAME_FORMAT = "plugins.%s:%s";
     public static final String APP_GRAILS_VERSION = "app.grails.version";
     public static final String APP_VERSION = "app.version";
-    public static final String SPRING_LOADED_VERSION = "1.1.1";
+    public static final String SPRING_LOADED_VERSION = "1.1.3";
 
     /**
      * Whether to activate the reloading agent (forked mode only) for this command
